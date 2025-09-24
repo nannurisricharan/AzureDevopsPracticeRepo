@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|c:\\users\\nannu\\onedrive\\documents\\my learnings\\azure devsecops course\\webapps\\cred_app_home_about_page\\cred_home_about_page_appln\\cred_home_about_page_appln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|solutionrelative:cred_home_about_page_appln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|c:\\users\\nannu\\onedrive\\documents\\my learnings\\azure devsecops course\\webapps\\cred_app_home_about_page\\cred_home_about_page_appln\\cred_home_about_page_appln\\landsaboutpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|solutionrelative:cred_home_about_page_appln\\landsaboutpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|c:\\users\\nannu\\onedrive\\documents\\my learnings\\azure devsecops course\\webapps\\cred_app_home_about_page\\cred_home_about_page_appln\\cred_home_about_page_appln\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|solutionrelative:cred_home_about_page_appln\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|c:\\users\\nannu\\onedrive\\documents\\my learnings\\azure devsecops course\\webapps\\cred_app_home_about_page\\cred_home_about_page_appln\\cred_home_about_page_appln\\landshomepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4296560B-549A-42C9-9CBF-0EA2646205F9}|Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln.csproj|solutionrelative:cred_home_about_page_appln\\landshomepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cred_Home_About_Page_Appln\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cred_Home_About_Page_Appln\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T03:03:15.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "landsaboutpage.html",
+              "DocumentMoniker": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\landsaboutpage.html",
+              "RelativeDocumentMoniker": "Cred_Home_About_Page_Appln\\landsaboutpage.html",
+              "ToolTip": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\landsaboutpage.html",
+              "RelativeToolTip": "Cred_Home_About_Page_Appln\\landsaboutpage.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-24T02:59:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "landshomepage.html",
+              "DocumentMoniker": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\landshomepage.html",
+              "RelativeDocumentMoniker": "Cred_Home_About_Page_Appln\\landshomepage.html",
+              "ToolTip": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\landshomepage.html",
+              "RelativeToolTip": "Cred_Home_About_Page_Appln\\landshomepage.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-24T02:59:27.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\Program.cs",
+              "RelativeDocumentMoniker": "Cred_Home_About_Page_Appln\\Program.cs",
+              "ToolTip": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\Program.cs",
+              "RelativeToolTip": "Cred_Home_About_Page_Appln\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:57:04.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

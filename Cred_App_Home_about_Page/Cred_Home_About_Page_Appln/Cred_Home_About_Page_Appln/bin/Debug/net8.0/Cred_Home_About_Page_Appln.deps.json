@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cred_Home_About_Page_Appln/1.0.0": {
+        "runtime": {
+          "Cred_Home_About_Page_Appln.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cred_Home_About_Page_Appln/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
