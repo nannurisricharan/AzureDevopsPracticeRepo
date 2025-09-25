@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Cred_Home_About_Page_Appln.props" />
-</Project>

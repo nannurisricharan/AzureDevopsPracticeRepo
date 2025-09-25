@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Cred_Home_About_Page_Appln.props" />
-</Project>
