@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -75,7 +79,7 @@
               "RelativeDocumentMoniker": "Cred_Home_About_Page_Appln\\Program.cs",
               "ToolTip": "C:\\Users\\nannu\\OneDrive\\Documents\\My learnings\\Azure devsecops Course\\Webapps\\Cred_App_Home_about_Page\\Cred_Home_About_Page_Appln\\Cred_Home_About_Page_Appln\\Program.cs",
               "RelativeToolTip": "Cred_Home_About_Page_Appln\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T02:57:04.249Z",
               "EditorCaption": ""
